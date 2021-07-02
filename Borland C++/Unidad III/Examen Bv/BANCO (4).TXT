@@ -1,0 +1,2 @@
+El prestamo 1 es $14500
+El prestamo 2 no es VALIDO
